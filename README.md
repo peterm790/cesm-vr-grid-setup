@@ -14,7 +14,6 @@ The original tutorial is probably more complete! This is just a messy living doc
   - [Step 4: Make a Grid!](#step-4-make-a-grid)
       - [Now we can create the final \_EXODUS.nc file](#now-we-can-create-the-final-_exodusnc-file)
       - [Next up create a mesh.](#next-up-create-a-mesh)
-      - [The Rest of This Is Just for Running a Model Using This newly created Grid!](#the-rest-of-this-is-just-for-running-a-model-using-this-newly-created-grid)
   - [Step 4 and 3/4 We need a version of CESM3 installed](#step-4-and-34-we-need-a-version-of-cesm3-installed)
   - [Step 5: Modify the CESM input files to match our new grid](#step-5-modify-the-cesm-input-files-to-match-our-new-grid)
     - [a) regrid CAM IC](#a-regrid-cam-ic)
@@ -208,7 +207,7 @@ Note the 0 at the end.
 
 We now have a shareable/reusable grid. The next bits are how to use this to create initail conditions files to do a run!
 
-#### The Rest of This Is Just for Running a Model Using This newly created Grid!
+The Rest of This Is Just for Running a Model Using This newly created Grid!
 
 ## Step 4 and 3/4 We need a version of CESM3 installed 
 
